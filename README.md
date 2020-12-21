@@ -40,10 +40,21 @@
   ![rideshare data based on city type and date](https://github.com/tlin41390/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
     
     
-### School District Summary
-    * Overall, The Four Major Changes in the school district analysis, after updating the ninth grade scores, 
-    is that the average math score for Charter schools, increased, as well as the average reading scores increased as well. 
-    In additon the overall passing rate has increased because THS is a charter school. As for the  size of the school, the averages 
-    for a school size around THS will increase when the overall results of THS scores increase as well. Moreover, if we are to look at
-    the school data based on budget per person, because THS falls in the range of 630-644($638) the scores for that range will increase as well.
+### Pyber Summary
+    Based off of the results and trends, there are three recomendations that will possibly address the fluctuations or maybe
+    earn more in regards to profit, and advancing the company further.
+    
+    *Because Urban Areas have the most people in the area as they need to get to work, school, or maybe hang out in the different
+     places in these cities, there are a few ways to boost revenue and maybe have more people use the services. Maybe increasing the prices
+     a bit will generate more revenue in fares, as ride shares in busy urban areas is essential for transportation. Maybe even have different deals
+     and offers like a discount for people that often uses these rideshares as there are going to be people that use these services alot.
+     
+    * In suburban areas, there are suggestions that are simialiar to urban areas. One important goal is to increase incentive in suburban areas,
+      and just like urban areas, there can be different deals and offers for riders to participate more in ridesharing services. Moreover, there can
+      be different classes in rideshare such as deluxe, or regular depending on what the rides are and why the rider is using the services.
+      
+    * In rural areas, there are many different improvements that can be made. For starters, maybe trying to hire or encourage more drivers to be in the area
+      to lower the prices for people to use the services, as a major factor in the high prices in urban areas is the lack of drivers in the area, as well as the
+      riders there. So, by including some more drivers in the area, as well as promoting ride share and its benefits to the people in rural areas may better the 
+      total fares in the area
     
