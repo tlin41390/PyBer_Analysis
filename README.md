@@ -22,12 +22,22 @@
     generally more busy in the area there are a higher demand in rides and there are more activity in drivers as well. Prices there
     are the cheapest, considering how many drivers there are and how easy it is to get a ride share. In suburban areas there is less
     activity in those areas, so the price is cheaper as people are most likely using rideshare to go from their homes to other homes, or
-    to urban cities. It is generally more quiet in activiy, so the fares are generally higher, taking into the people that uses ride share
+    to urban cities. It is generally more quiet in activiy, so the average fares are generally higher, taking into the people that uses ride share
     and the rates the drivers are charging in these suburban areas. The area with the less activity, the rural area has less people and drivers
     because demand in rural areas is the lowest, considering many factors such as how rural areas tend to not be busy, and the population tends to be 
-    lower. Because of this, there are less people taking rideshare, and that is why the averages are generally highe, and the driver fares are the most
-    expensive, considering how rare it is to get people to use rideshare in these areas.
+    lower. Because of this, there are less people taking rideshare, and that is why the averages are generally higher, and the driver fares are the most
+    expensive, considering how rare it is to get people to use rideshare in these areas, which is why the total fares are the lowest compared to the 
+    urban and rural areas.
   ![rideshare data based on city type](https://github.com/tlin41390/PyBer_Analysis/blob/main/analysis/Pyber_citytype.png)
+  
+    From the line chart, we can see that the fares data fluctuates between the three city types in different months. Overall, Urban areas
+    earn the most money, with suburban areas in the middle in profits, and rural areas generating less in fares. The common trends between
+    the data sets is that in the later half of February there is a generally peek in fares. One thing to consider, however is how often 
+    urban areas change in fares. Urban areas tend to have the most peeks and dives from mid February to April. In rural areas, there seems 
+    to be a noticable fluctuation in the first months and the peeks are generally torward the end of the month, with a drop right at the beginning
+    of the month. Suburban areas seem to have the fewest peeks and fluctuations, being mostly consistent, at least compared to the urban and rural data
+    sets.
+  ![rideshare data based on city type and date](https://github.com/tlin41390/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
     
     
 ### School District Summary
