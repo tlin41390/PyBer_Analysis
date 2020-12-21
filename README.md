@@ -2,18 +2,32 @@
 
 ## Overview of PyBer Analysis
 ### Purpose
-  The Purpose of the challenge is to show the many different ways to represent data sets. Sometimes, there 
-  are alot of information, and in order to see the trends and correlation between data sets, it would be 
-  ideal to represent it in a model. In addition, with Pyber Analysis, it can be helpful for businesses to 
-  be able to parse the dataframe into a chat/graph in order to look at trends to see where to focus on in 
-  regards to business spending or priotitization, like having more drives set out to urban areas, or encouraging
-  increasing prices based on demand. For graphs it is imperative that businesses are able to view the data based 
-  off of dates, and graphing with Matplotlib will help with that as well.
+    The Purpose of the challenge is to show the many different ways to represent data sets. Sometimes, there 
+    are alot of information, and in order to see the trends and correlation between data sets, it would be 
+    ideal to represent it in a model. In addition, with Pyber Analysis, it can be helpful for businesses to 
+    be able to parse the dataframe into a chat/graph in order to look at trends to see where to focus on in 
+    regards to business spending or priotitization, like having more drives set out to urban areas, or encouraging
+    increasing prices based on demand. For graphs it is imperative that businesses are able to view the data based 
+    off of dates, and graphing with Matplotlib will help with that as well.
 
 ### Results
-  Based off of the data sets and data frames, there is a clear distinction between the number of drivers, the demand
-  for ride share, as well as the aggregate fares, and averages. For starters there is a clear trend
-  ![rideshare data based on city type](
+    Based off of the data sets and data frames, there is a clear distinction between the number of drivers, the demand
+    for ride share, as well as the aggregate fares, and averages. For starters there is a clear trend in different datasets
+    between the different city types in regards to the total fares, the total drivers, as well as the number of rides in different
+    areas. In the urban area, there are the most people using rideshares with 1625 rides, and there are 2405 drivers. the average
+    ride fare is $24.5 and drivers charge an average of $16.6. For the suburban area there are significantly less rides with only
+    625 rides, 490 drivers, $19,356.3 in fares. The average ride fare is around $31 and drivers charge on average, $39.5. Finally
+    in rural areas there are only 125 rides, 78 drivers, the fares total up around $4,327. For the averages it is $34.6 in ride fares
+    and the average driver fares is $55.5. The conclusions we can make based on the results are that in urban areas, because it is 
+    generally more busy in the area there are a higher demand in rides and there are more activity in drivers as well. Prices there
+    are the cheapest, considering how many drivers there are and how easy it is to get a ride share. In suburban areas there is less
+    activity in those areas, so the price is cheaper as people are most likely using rideshare to go from their homes to other homes, or
+    to urban cities. It is generally more quiet in activiy, so the fares are generally higher, taking into the people that uses ride share
+    and the rates the drivers are charging in these suburban areas. The area with the less activity, the rural area has less people and drivers
+    because demand in rural areas is the lowest, considering many factors such as how rural areas tend to not be busy, and the population tends to be 
+    lower. Because of this, there are less people taking rideshare, and that is why the averages are generally highe, and the driver fares are the most
+    expensive, considering how rare it is to get people to use rideshare in these areas.
+  ![rideshare data based on city type](https://github.com/tlin41390/PyBer_Analysis/blob/main/analysis/Pyber_citytype.png)
     
     
 ### School District Summary
