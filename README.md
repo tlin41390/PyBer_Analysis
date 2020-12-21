@@ -44,10 +44,10 @@
     Based off of the results and trends, there are three recomendations that will possibly address the fluctuations or maybe
     earn more in regards to profit, and advancing the company further.
     
-    *Because Urban Areas have the most people in the area as they need to get to work, school, or maybe hang out in the different
-     places in these cities, there are a few ways to boost revenue and maybe have more people use the services. Maybe increasing the prices
-     a bit will generate more revenue in fares, as ride shares in busy urban areas is essential for transportation. Maybe even have different deals
-     and offers like a discount for people that often uses these rideshares as there are going to be people that use these services alot.
+    * Because Urban Areas have the most people in the area as they need to get to work, school, or maybe hang out in the different
+      places in these cities, there are a few ways to boost revenue and maybe have more people use the services. Maybe increasing the prices
+      a bit will generate more revenue in fares, as ride shares in busy urban areas is essential for transportation. Maybe even have different deals
+      and offers like a discount for people that often uses these rideshares as there are going to be people that use these services alot.
      
     * In suburban areas, there are suggestions that are simialiar to urban areas. One important goal is to increase incentive in suburban areas,
       and just like urban areas, there can be different deals and offers for riders to participate more in ridesharing services. Moreover, there can
